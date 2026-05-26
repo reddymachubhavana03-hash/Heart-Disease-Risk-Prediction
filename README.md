@@ -29,7 +29,7 @@ The project was developed using the Cleveland Heart Disease dataset and implemen
 ---
 
 ## Dataset
-Cleveland Heart Disease Dataset  
+Heart Disease dataset from Kaggle
 Source: UCI Machine Learning Repository
 
 Features include:
@@ -94,6 +94,7 @@ The project also highlights the importance of data preprocessing, feature analys
 ---
 
 ## Author
+Bhavana Reddymachu
 Biomedical Engineering Graduate interested in:
 - Healthcare AI
 - Medical Data Science
